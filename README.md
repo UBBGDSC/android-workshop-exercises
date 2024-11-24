@@ -2,7 +2,7 @@
 
 # GDG Fall 2024 Android Workshop Exercises
 
-Hey! Glad you're here. In this repository you will find the exercise project files, which can be directly opened with Android Studio.
+Hey! Glad you're here. In this repository you will find the exercise project files, which can be directly opened with Android Studio. If you don't have it, please make sure to install it [from here](https://developer.android.com/studio).
 
 _Note_: Make sure to press Ctrl + Alt + Q after opening the project so that the problem statement gets formatted nicely.
 
