@@ -1,6 +1,8 @@
 package com.example.exercise1task;
 
 import android.os.Bundle;
+import android.widget.EditText;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 /**
@@ -14,9 +16,13 @@ import androidx.appcompat.app.AppCompatActivity;
  * */
 public class MainActivity extends AppCompatActivity {
 
+    //EditText editText;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        //editText = findViewById(R.id.editText);
 
         setContentView(R.layout.activity_main);
     }
